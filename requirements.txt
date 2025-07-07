@@ -1,2 +1,6 @@
-I NEED TO LEARN TERMINAL, SQL, PYTHON. 
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
 
